@@ -12,5 +12,4 @@ elif username != db_username and  password == db_password:
     print ("Incorrect username! please try again.")
 else:    
     print ("wrong username or password!")
-
     exit()    
